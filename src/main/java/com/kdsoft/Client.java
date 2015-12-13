@@ -1,8 +1,10 @@
 package com.kdsoft;
 
-public class TestMain {
+public class Client {
 
 	public static void main(String[] args) {
+		
+		
 		
 	}
 
